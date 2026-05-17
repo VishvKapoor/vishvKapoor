@@ -1,6 +1,5 @@
-# Hi 👋, I'm Vishv Kapoor
-
-### 🚀 Full-Stack Dev | MERN Stack | DSA Enthusiast
+<h1 align="center">Vishv Kapoor</h1>
+<h3 align="center"> Full-Stack Dev | MERN Stack | DSA Enthusiast</h3>
 
 ---
 
@@ -14,6 +13,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -22,6 +22,13 @@
 
 ---
 
-## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishv-kapoor-b389a634a/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/VishvKapoor)
+<h2 align="center">📬 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishv-kapoor-b389a634a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/VishvKapoor">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
