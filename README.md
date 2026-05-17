@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vishv Kapoor
 
-### 🚀 Full-Stack Developer | MERN Stack | React Enthusiast
+### 🚀 Full-Stack Dev | MERN Stack | DSA Enthusiast
 
 ---
 
